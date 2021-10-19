@@ -1,0 +1,29 @@
+{
+    "name": "proyecto-perritos",
+    "version": "1.0.0",
+    "description": "curso maquetacion",
+    "main": "gulpfile.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "js",
+        "gulp",
+        "pug",
+        "stylus",
+        "HTML5",
+        "CSS3",
+        "nib"
+    ],
+    "author": "Jose Caycho",
+    "license": "ISC",
+    "devDependencies": {
+        "browser-sync": "^2.27.5",
+        "gulp": "^4.0.2",
+        "gulp-stylus": "^2.7.0"
+    },
+    "dependencies": {
+        "browser-sync-spa": "^1.0.3",
+        "gulp-pug": "^5.0.0"
+    }
+}
